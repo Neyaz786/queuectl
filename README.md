@@ -1,8 +1,11 @@
 
 # queuectl
 
+---
 
 **Working CLI Demo Video** [Link](https://drive.google.com/file/d/1c-bpbiR9xW646yAHVzxblyFP787OpZS0/view?usp=sharing)
+
+--- 
 A minimal CLI-based background job queue for Node.js with retries, exponential backoff, a Dead Letter Queue (DLQ), persistent storage with SQLite, multiple workers, and graceful shutdown.
 
 ## Features
