@@ -1,0 +1,12 @@
+{
+  "name": "queuectl",
+  "version": "1.0.0",
+  "type": "module",
+  "bin": {
+    "queuectl": "./src/cli.js"
+  },
+  "dependencies": {
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7"
+  }
+}
